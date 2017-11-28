@@ -1,0 +1,5 @@
+# [Domains](domains.md)
+## [Sample Domain](domains/sample.md)
+### [Commands](domains/sample.md#commands)
+### [Events](domains/sample.md#events)
+### [Types](domains/sample.md#types)
